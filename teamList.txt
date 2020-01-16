@@ -1,6 +1,6 @@
-X	Dylan Armstrong 
-X	Josh Barney	
-X	Jack Bell	
+X	Dylan Armstrong
+X	Josh Barney
+Jack Bell	(Jack)
 X	Karsten Boettcher
 X	Jason Boyd
 X	Katelynn Call
@@ -28,8 +28,8 @@ X	Sialao Mobley
 Chad Murri
 Brett Nielsen (Brett)
 X	Dallin Packer
-X	Cade Rasmussen	
-X	Spencer Robinson	
+X	Cade Rasmussen
+X	Spencer Robinson
 X	Kendra Rogers
 X	Kostandinos Sergakis
 X	Mark Snyder
@@ -40,4 +40,3 @@ Dan Watson (Dan)
 Joshua Webster (Josh)
 Christian Winwood (Christian)
 X	Mark Yamane
-	
