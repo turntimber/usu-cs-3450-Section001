@@ -1,4 +1,3 @@
 My name is Phillip Linson
 I write everything in Vim
 At the moment my favorite language is Python
-
