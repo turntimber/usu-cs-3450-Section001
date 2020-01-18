@@ -1,34 +1,34 @@
-X	Dylan Armstrong 
-X	Josh Barney	
-X	Jack Bell	
+X	Dylan Armstrong
+X	Josh Barney
+Jack Bell	(Jack)
 X	Karsten Boettcher
-X	Jason Boyd
-X	Katelynn Call
+Jason Boyd (Jason)
+Katelynn Call (Katelynn)
 Brian Callister (Brian)
 Connor Dibble (Connor)
-X	Nathan Edwards
-X	Zach Ellis
+Nathan Edwards (Nathan)
+Zach Ellis
 Cheston Gray
 Tyler Green (Tyler)
 X	Tanner Hale
 Elizabeth Howell
 Brianna King (Brianna)
-X	Parker Krieger
+Parker Krieger (Parker)
 Joshua Kropf (Josh)
 X	Johnathan Kunz
 X	Eric Lambert
-X	Brody Larsen
+Brody Larsen(Brody)
 Matthew Lindow (Matt)
-X	Phillip Linson
+Phillip Linson (Phillip)
 Matthew Lister (Matthew)
 X	Ian Macfarlane
-X	Hunter Meredith
-X	Jonah Merrell
-X	Sialao Mobley
+Hunter Meredith (Hunter)
+Jonah Merrell (Jonah)
+Sialao Mobley (Sialao)
 Chad Murri
 Brett Nielsen (Brett)
 X	Dallin Packer
-X	Cade Rasmussen	
+Cade Rasmussen	(Cade)
 Spencer Robinson (Spencer)
 X	Kendra Rogers
 X	Kostandinos Sergakis
@@ -39,5 +39,4 @@ Margaret Watkins (Margaret)
 Dan Watson (Dan)
 Joshua Webster (Josh)
 Christian Winwood (Christian)
-X	Mark Yamane
-	
+Mark Yamane
